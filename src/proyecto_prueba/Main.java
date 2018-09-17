@@ -9,8 +9,9 @@ public class Main {
 		System.out.println("Hola");
 		
 		int a=0;
-		String var="texto";
 		
+		String var="texto";
+		  
 		System.out.println("Probando GIT");
 
 	}
